@@ -1,5 +1,5 @@
 # securecrt-scripts
-Short, handy scripts for network engineers using VanDyke's SecureCRT
+Short, handy scripts for network engineers who are lucky to use VanDyke's SecureCRT
 
 ## RunAndCompareCommands
 
