@@ -1,0 +1,23 @@
+show clock
+show ntp peer-status
+terminal length 0
+terminal no monitor
+show running-config
+show cdp neighbor detail
+show cdp neighbor
+show version
+show module
+dir all-file
+show boot
+show logging logfile
+show system redundancy status
+show interface status
+show vlan
+show spanning-tree root
+show spanning-tree summary
+show etherchannel summary
+show mac address-table
+show cdp neighbor detail
+show cdp neighbor
+show vpc
+copy running-config startup-config

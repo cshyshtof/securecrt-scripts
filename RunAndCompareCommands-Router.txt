@@ -1,0 +1,21 @@
+show clock
+show ntp associations
+terminal length 0
+terminal no monitor
+show running-config
+show cdp neighbor detail
+show cdp neighbor
+show version
+show diag
+dir all-file
+show boot
+show logging
+show ip int brief
+show ip protocols
+show ip route summary
+show ip ospf interface
+show ip ospf neighbor
+show ip eigrp interface
+show ip eigrp neighbor
+show ip arp
+copy running-config startup-config
